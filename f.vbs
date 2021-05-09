@@ -1,0 +1,1 @@
+x=msgbox("指令包已經存在!",0+48,"Mcfunction Store")

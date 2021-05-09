@@ -1,0 +1,1 @@
+x=msgbox("該地圖的版本並不支援安裝中的指令包!",0+16,"Mcfunction Store")

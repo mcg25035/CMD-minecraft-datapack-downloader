@@ -1,0 +1,1 @@
+x=msgbox("很抱歉，我們無法辨識你的輸入，請重新輸入一次。",0+48,"Mcfunction Store")

@@ -1,0 +1,1 @@
+x=msgbox("指令包安裝完成",0+64,"Mcfunction Store")
